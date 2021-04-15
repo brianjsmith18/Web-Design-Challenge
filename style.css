@@ -1,0 +1,10 @@
+#lattitle{
+    color: white;
+    background-color: aqua;
+    font-weight: bold;
+}
+
+#tempimg{
+    height: 200px;
+    width: 200px; float:left
+}
